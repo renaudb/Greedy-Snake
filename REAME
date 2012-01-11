@@ -1,0 +1,9 @@
+SNAKE 1.0
+
+Copyright 2012 Renaud Bourassa
+http://github.com/renaudb/Greedy-Snake/
+
+ABOUT
+
+The Greedy Snake program is an implementation of the Greedy Snake 
+algorithm for contour detection as a Matlab function.
