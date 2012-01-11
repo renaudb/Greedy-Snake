@@ -6,4 +6,7 @@ http://github.com/renaudb/Greedy-Snake/
 ABOUT
 
 The Greedy Snake program is an implementation of the Greedy Snake 
-algorithm for contour detection as a Matlab function.
+algorithm for contour detection as a Matlab function. This code was 
+used as the base for a Computational Vision (CS 484) final project at 
+the University of Waterloo. The report submitted with the code is 
+included as a pdf file.
